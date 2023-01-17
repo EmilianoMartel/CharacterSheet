@@ -1,0 +1,21 @@
+Menu:
+-Random: Character-sheets Random
+    -Genere una Randomk
+    -Si te gusta se puede guardar
+-Personalizada: Custom Character-sheets
+-Guardadas: Character-sheets guardadas
+
+RANDOM:
+-¿De que nivel es? por ahora solo lvl 1
+-Nombre
+-Clase:
+    -en diccionario con el peso de cada skill
+    -Habilidades dentro del diccionario?
+-Raza
+-Stats
+    -hay que hacer un sistema de peso segun que clase es
+-Skills
+-Habilidades
+-Personalidad,ideales, bonds y flo
+-Boton de modificar algo especifico o todo el personaje
+-boton de guardar
